@@ -5,6 +5,7 @@
 This one day hands-on classroom style session will provide developers with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
 8:00 AM - 8:30 AM	Breakfast and Registration
+
 				Enjoy breakfast with the team
 8:30 AM - 9:00 AM	Kickoff
 				Where we are and where we are going
