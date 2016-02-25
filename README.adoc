@@ -19,12 +19,12 @@ This one day hands-on classroom style session will provide developers with hands
 				Lunch will be provided
 12:30 PM - 2:00 PM	Spring Boot Primer
 				Getting started with Spring Boot.  Let’s make an app!
-2:00 PM - 3:00 PM		The Cloud Native Enterprise
+2:00 PM - 3:00 PM	The Cloud Native Enterprise
 					Devops, Continuous Delivery, Microservices, what’s new, what isn’t, what matters 
-3:00 PM - 3:15 PM		Break
-3:15 PM - 4:30 PM		Developer Workshop
-Hands-on pushing code with PCF
-4:30 PM - 5:00 PM		Wrap Up, Q&A, Feedback
+3:00 PM - 3:15 PM	Break
+3:15 PM - 4:30 PM	Developer Workshop
+				Hands-on pushing code with PCF
+4:30 PM - 5:00 PM	Wrap Up, Q&A, Feedback
 
 == Course Materials
 
