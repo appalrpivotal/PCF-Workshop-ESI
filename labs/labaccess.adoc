@@ -1,8 +1,9 @@
 = PCF Environment Access
 
-== Account set up
+== Apps Manager UI
 
-. If you do not have an account yet, please see the instructor
+. Navigate in a web browser to https://run.pivotal.io
+. Create an account
 
 == Target the Environment
 
@@ -21,12 +22,6 @@ $ cf login
 ----
 +
 Follow the prompts
-
-== Apps Manager UI
-
-. An alternative to installing the CF CLI is via your PCF Apps Manager interface.
-
-. Navigate in a web browser to https://run.pivotal.io
 
 . Login to the interface with your email and workshop password. Note the pasword will be supplied by the instructor on the day of delivery.
 
