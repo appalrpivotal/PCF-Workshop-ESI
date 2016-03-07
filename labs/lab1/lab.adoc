@@ -2,21 +2,7 @@
 
 == Target
 
-. If you haven't already, download the latest release of the Cloud Foundry CLI from https://github.com/cloudfoundry/cli/releases for your operating system and install it.
-
-. If you haven't already, Set the API target for the CLI: (set appropriate end point for your environment)
-+
-----
-$ cf api https://api.run.pivotal.io --skip-ssl-validation
-----
-
-. If you haven't already, Login to Pivotal Cloudfoundry:
-+
-----
-$ cf login
-----
-+
-Follow the prompts
+. If you haven't already, complete the prequisites and environment setup: https://github.com/dbeauregard-pivotal/PCF-Workshop-ESI/blob/master/labs/labaccess.adoc
 
 == Push It!
 
