@@ -3,7 +3,7 @@
 == Apps Manager UI
 
 . Navigate in a web browser to https://run.pivotal.io
-. Create an account
+. Create an account (follow all the steps indicated)
 
 == Target the Environment
 
@@ -21,8 +21,4 @@ $ cf api https://api.run.pivotal.io
 $ cf login
 ----
 +
-Follow the prompts
-
-. Login to the interface with your email and workshop password. Note the pasword will be supplied by the instructor on the day of delivery.
-
-. Click the 'Tools' link, and download the CLI matching your operating system
+Follow the prompts and login with the PWS account you created above.
