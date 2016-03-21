@@ -7,7 +7,7 @@
 == Download
 . Download the code, binaries and slides:
 \\EHQAP011\support\PCF
-(You should be able to access the zip file by doing start-->run-->browse above path.)
+.(You should be able to access the zip file by doing start-->run-->browse above path.)
 
 == Push It!
 
