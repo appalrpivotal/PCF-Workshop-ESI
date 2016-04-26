@@ -5,7 +5,7 @@
 
 . Navigate in a web browser to https://apps.sys.vca.express-scripts.com
 . Accept the self signed certificate warning
-. You will be provided credentials to login
+. You will be provided credentials to login by your instructor
 
 *From not on the ESI network (i.e., at home or on guest wifi)*
 
@@ -28,5 +28,4 @@ $ cf api https://api.sys.vca.express-scripts.com --skip-ssl-validation
 $ cf login
 ----
 +
-Follow the prompts and login with the account from above.
-+
+. Follow the prompts and login with the account from above.
