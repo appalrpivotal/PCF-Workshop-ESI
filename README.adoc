@@ -11,8 +11,8 @@ This one day hands-on classroom style session will provide developers with hands
 9:00 AM - 10:00 AM	Cloud Native Introduction
 				Industry Trends and Overview including: 12 Factor Apps, Microservices and Cloud Platforms
 10:00 AM - 10:15 AM	Break
-10:15 AM - 11:15 AM	Pivotal Cloud Foundry
-			An overview of PCF and its Architecture
+10:15 AM - 11:15 AM	Cloud Native Platform
+			An overview of Cloud Foundry (PCF) and its Architecture
 11:15 AM - 12:00 PM	Services Made Easy
 				PCF Services (Database, Messaging, etc.) and the Marketplace
 12:00 PM - 12:30 PM	Lunch
