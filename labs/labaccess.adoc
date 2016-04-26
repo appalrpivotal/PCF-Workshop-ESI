@@ -1,7 +1,12 @@
 = PCF Environment Access
 
 == Apps Manager UI
+*From on the ESI Network*
+. Navigate in a web browser to https://apps.sys.vca.express-scripts.com
+. Accept the self signed certificate warning
+. You will be provided credentials to login
 
+*From not on the ESI network (i.e., at home or on guest wifi(*
 . Navigate in a web browser to https://run.pivotal.io
 . Create an account (follow all the steps indicated)
 
