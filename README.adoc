@@ -4,38 +4,18 @@
 
 This one day hands-on classroom style session will provide developers with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
- 8:00 AM - 8:30 AM	Breakfast and Registration 
-				Enjoy breakfast with the team
-8:30 AM - 9:00 AM	Kickoff
-				Where we are and where we are going
-9:00 AM - 10:00 AM	Cloud Native Introduction
-				Industry Trends and Overview including: 12 Factor Apps, Microservices and Cloud Platforms
-10:00 AM - 10:15 AM	Break
-10:15 AM - 11:15 AM	Cloud Native Platform
-			An overview of Cloud Foundry (PCF) and its Architecture
-11:15 AM - 12:00 PM	Services Made Easy
-				PCF Services (Database, Messaging, etc.) and the Marketplace
-12:00 PM - 12:30 PM	Lunch
-				Lunch will be provided
-12:30 PM - 2:00 PM	Spring Boot Primer
-				Getting started with Spring Boot.  Let’s make an app!
-2:00 PM - 3:00 PM	The Cloud Native Enterprise
-					Devops, Continuous Delivery, Microservices, what’s new, what isn’t, what matters 
-3:00 PM - 3:15 PM	Break
-3:15 PM - 4:30 PM	Developer Workshop
-				Hands-on pushing code with PCF
-4:30 PM - 5:00 PM	Wrap Up, Q&A, Feedback
+* link:ESICloudNativeRoadshow-BLM.pdf[Agenda]
 
 == Course Materials
 
-* Session 1: link:presentations/1-Workshop_Kickoff.pdf[Kickoff]
-* Session 2: link:presentations/2-Cloud_Native_Introduction.pdf[Cloud Native Introduction]
-* Session 3: link:presentations/3-Pivotal_Cloud_Foundry.pdf[Pivotal Cloud Foundry]
-* Session 4: link:presentations/4-Services.pdf[Pivotal Cloud Foundry Services]
-* Session 5: link:presentations/5-Spring_Boot_Primer.pdf[Spring Boot Primer]
-* Session 6: link:presentations/6-The_Cloud_Native_Enterprise.pdf[The Cloud Native Enterprise]
-* Session 7: link:presentations/7-Hands-on_Lab.pdf[Hands On Lab]
-* Session 8: link:presentations/8-Wrapup.pdf[Wrapup]
+* Session 1: link:presentations/Workshop_Kickoff.pdf[Kickoff]
+* Session 2: link:presentations/Cloud_Native_Introduction.pdf[Cloud Native Introduction]
+* Session 3: link:presentations/Pivotal_Cloud_Foundry.pdf[Pivotal Cloud Foundry]
+* Session 4: link:presentations/Services.pdf[Pivotal Cloud Foundry Services]
+* Session 5: link:presentations/The_Cloud_Native_Enterprise.pdf[The Cloud Native Enterprise]
+* Session 6: link:presentations/Spring_Boot_Primer.pdf[Spring Boot Primer]
+* Session 7: link:presentations/Hands-on_Lab.pdf[Hands On Lab]
+* Session 8: link:presentations/Wrapup.pdf[Wrapup]
 
 * Developer Workshop
 ** Pre-work
