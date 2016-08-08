@@ -10,13 +10,17 @@
 *From not on the ESI network (i.e., at home or on guest wifi)*
 
 . Navigate in a web browser to https://run.pivotal.io
-. Create an account (follow all the steps indicated)
+. Create a free account (follow the steps indicated to create your account and org)
+. *IMPORTANT: We will be following the lab instructions on this page, not the getting started lab on run.pivotal.io*
 
 == Target the Environment
 
 . If you haven't already, download the latest release of the Cloud Foundry CLI from https://github.com/cloudfoundry/cli/releases for your operating system and install it. (or https://apps.sys.vca.express-scripts.com/tools)
 
 . Set the API target for the CLI: (set appropriate end point for your PCF environment)
+.. https://api.sys.vca.express-scripts.com
+.. https://api.run.pivotal.io
+
 +
 ----
 $ cf api https://api.sys.vca.express-scripts.com --skip-ssl-validation
