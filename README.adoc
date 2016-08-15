@@ -1,4 +1,4 @@
-= Pivotal Cloud Foundry 101 Workshop - ESI
+= Pivotal Cloud Foundry 101 Workshop - GAIG
 
 == Schedule
 
