@@ -4,18 +4,17 @@
 
 This one day hands-on classroom style session will provide developers with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
-* link:ESICloudNativeRoadshow-BLM.pdf[Agenda]
+* link:Agenda.pdf[Agenda]
 
 == Course Materials
 
-* Session 1: link:presentations/Workshop_Kickoff.pdf[Kickoff]
-* Session 2: link:presentations/Cloud_Native_Introduction.pdf[Cloud Native Introduction]
-* Session 3: link:presentations/Pivotal_Cloud_Foundry.pdf[Pivotal Cloud Foundry]
-* Session 4: link:presentations/Services.pdf[Pivotal Cloud Foundry Services]
-* Session 5: link:presentations/The_Cloud_Native_Enterprise.pdf[The Cloud Native Enterprise]
-* Session 6: link:presentations/Spring_Boot_Primer.pdf[Spring Boot Primer]
-* Session 7: link:presentations/Hands-on_Lab.pdf[Hands On Lab]
-* Session 8: link:presentations/Wrapup.pdf[Wrapup]
+* Session 1: link:presentations/1-Workshop Kickoff.pptx[Kickoff]
+* Session 2: link:presentations/2-Cloud Native Introduction.pptx[Cloud Native Introduction]
+* Session 3: link:presentations/3-Pivotal Cloud Foundry.pptx[Pivotal Cloud Foundry]
+* Session 4: link:presentations/4-Services.pptx[Pivotal Cloud Foundry Services]
+* Session 5: link:presentations/5-The Cloud Native Enterprise.pptx[The Cloud Native Enterprise]
+* Session 6: link:presentations/6-Hands-on Lab.pptx[Hands On Lab]
+* Session 7: link:presentations/7-Wrapup.pptx[Wrapup]
 
 * Developer Workshop
 ** Pre-work
