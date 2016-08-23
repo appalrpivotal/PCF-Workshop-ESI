@@ -1,4 +1,4 @@
-= Pivotal Cloud Foundry 101 Workshop - GAIG
+= Pivotal Cloud Foundry 101 Workshop - Great American Insurance
 
 == Schedule
 
