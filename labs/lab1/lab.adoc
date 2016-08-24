@@ -5,7 +5,7 @@
 . If you haven't already, complete the prequisites and environment setup: link:../labaccess.adoc[Get Environment Access]
 
 == Download
-. Download the code, binaries and slides: https://workshopmaterial.cfapps.vca.express-scripts.com (ESI network) or https://github.com/dbeauregard-pivotal/PCF-Workshop-ESI (off the ESI network)
+. Download the code, binaries and slides: https://github.com/appalrpivotal/PCF-Workshop-GAIG
 
 == Push It!
 
