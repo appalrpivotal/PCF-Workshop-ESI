@@ -1,6 +1,6 @@
 ---
 applications:
-- name: scale-demo
+- name: scale-demo-gaig
   memory: 128M
   instances: 1
   host: scale
