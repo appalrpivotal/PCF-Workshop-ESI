@@ -10,7 +10,7 @@ This one day hands-on classroom style session will provide developers with hands
 
 * Session 1: link:presentations/1-Workshop_Kickoff.pptx[Kickoff]
 * Session 2: link:presentations/2-Cloud_Native_Introduction.pptx[Cloud Native Introduction]
-* Session 3: link:presentations/3-Pivotal_Cloud_Foundry.pptx[Pivotal Cloud Foundry]
+* Session 3: link:presentations/3-Cloud_Native_Enterprise.pptx[The Cloud-Native Enterprise]
 * Session 4: link:presentations/4-Spring_Overview.pptx[Spring Overview]
 * Session 5: link:presentations/5-Hands-on_Lab.pptx[Hands on Lab]
 * Session 6: link:presentations/6-Cloud-Native_Platform.pptx[Cloud-Native Platform]
