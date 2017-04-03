@@ -2,27 +2,20 @@
 
 == Apps Manager UI
 
-. Navigate in a web browser to https://run.pivotal.io
-. Create an Account which will be good for 2 Months
+. Navigate in a web browser to https://apps.sys.dev.cf.pa.fedex.com
+. Use your FedEx ID (aka LDAP) credentials to login
 
 
 == Target the Environment
 
-. If you haven't already, download the latest release of the Cloud Foundry CLI from https://github.com/cloudfoundry/cli/releases for your operating system and install it. (or https://console.run.pivotal.io/2/tools)
+. If you haven't already, download the latest release of the Cloud Foundry CLI (you can download the latest here: https://github.com/cloudfoundry/cli#downloads )
 
 . Set the API target for the CLI: (set appropriate end point for your PCF environment)
-.. 
-.. https://api.run.pivotal.io
-
-+
-----
-$ cf api https://api.run.pivotal.io
-----
 
 . Login to Pivotal Cloudfoundry:
 +
 ----
-$ cf login
+$ cf login --skip-ssl-validation -a api.sys.dev.cf.pa.fedex.com
 ----
 +
 . Follow the prompts and login with the account from above.
