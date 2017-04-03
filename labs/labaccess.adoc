@@ -10,8 +10,6 @@
 
 . If you haven't already, download the latest release of the Cloud Foundry CLI (you can download the latest here: https://github.com/cloudfoundry/cli#downloads )
 
-. Set the API target for the CLI: (set appropriate end point for your PCF environment)
-
 . Login to Pivotal Cloudfoundry:
 +
 ----
