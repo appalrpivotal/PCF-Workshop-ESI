@@ -5,7 +5,7 @@
 . If you haven't already, complete the prequisites and environment setup: link:../labaccess.adoc[Get Environment Access]
 
 == Download
-. Download the code, binaries and slides: https://github.com/appalrpivotal/PCF-Workshop-GAIG
+. Download the code, binaries and slides: https://github.com/appalrpivotal/PCF-Workshop-Fedex
 
 == Push It!
 
