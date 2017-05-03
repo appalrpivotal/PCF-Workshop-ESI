@@ -9,12 +9,12 @@ This one day hands-on classroom style session will provide developers with hands
 == Course Materials
 
 * Session 1: link:presentations/1-Workshop_Kickoff.pptx[Kickoff]
-* Session 2: link:presentations/2-Cloud_Native_Introduction.pptx[Cloud Native Introduction]
-* Session 3: link:presentations/3-Cloud_Native_Enterprise.pptx[The Cloud-Native Enterprise]
-* Session 4: link:presentations/4-Spring_Overview.pptx[Spring Overview]
-* Session 5: link:presentations/5-Hands-on_Lab.pptx[Hands on Lab]
-* Session 6: link:presentations/6-Cloud-Native_Platform.pptx[Cloud-Native Platform]
-* Session 7: link:presentations/7-Wrapup.pptx[Wrapup]
+* Session 2: link:presentations/2-The_Cloud_Native_Enterprise.pptx[The Cloud-Native Enterprise]
+* Session 3: link:presentations/3-Hands-on_Lab.pptx[Hands on Lab]
+* Session 4: link:presentations/4-Cloud-Native_Platform.pptx[Cloud-Native Platform]
+* Session 5: link:presentations/5-Spring_Overview.pptx[Spring Overview]
+* Session 6: link:presentations/6-Wrapup.pptx[Wrapup]
+
 
 * Developer Workshop
 ** Pre-work
