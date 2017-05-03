@@ -1,26 +1,6 @@
-= Lab 1 - Building and Pushing Your First Application
+= Lab 5 - Building and Pushing Your First Application
 
-== Target
-
-. If you haven't already, download the latest release of the link:https://github.com/cloudfoundry/cli#installers-and-compressed-binaries[Cloud Foundry CLI] for your operating system and install it.
-
-. Use the API target and username/password provided by the instructor..
-
-. From a command prompt, set the API target for the CLI:
-+
-----
-$ cf api --skip-ssl-validation https://api.sys.dev.cf.pa.fedex.com
-----
-
-. Login to Pivotal Cloud Foundry (‘Employee ID’ and password (LDAP)):
-+
-----
-$ cf login -u <Employee ID> -p <your pw>
-----
-+
-Follow the prompts, choosing default organization and space.
-
-== Crate Application
+== Create Application
 
 . Go to http://start.spring.io/ in your browser
 . Change the package name to com.workshop .
@@ -38,8 +18,10 @@ JPA, Rest Repositories, MySQL, H2, Actuator, Lombok
 ```
 security.basic.enabled=false
 management.security.enabled=false
+spring.jpa.generate-ddl=true
+
 ```
-. Create a class, Order.java, in src/main/java/com/workshop , and paste in the following contents:
+. Create a class, OrderItem.java, in src/main/java/com/workshop , and paste in the following contents:
 +
 ```
 package com.workshop;
@@ -120,7 +102,7 @@ public class OrdersServiceApplication {
 . You should still be in the _Orders Service_ application directory:
 +
 ----
-$ cd $COURSE_HOME/session_02/lab_01/orders-service
+$ cd ../orders-service {The directory in which you created orders-service}
 ----
 
 . Using Maven, build and package the application:
@@ -260,4 +242,3 @@ Because our application knows nothing about any backing databases, and h2 is on 
 "hello": 1
 }
 ```
-link:/README.md#course-materials[Course Materials home] | link:/session_02/lab_02/lab_02.adoc[Lab 2 - Binding to Cloud Foundry Services]
