@@ -14,6 +14,7 @@
 ----
 $ cd $BOOTCAMP_HOME/cf-spring-mvc-boot
 
++
 . The jar is pre-built in the target directory. Alternatively, you can download it from the below link:
 +
 ----
