@@ -1,0 +1,41 @@
+= Lab 1 - Building and Pushing Your First Application
+
+== Target
+
+. If you haven't already, download the latest release of the link:https://github.com/cloudfoundry/cli#installers-and-compressed-binaries[Cloud Foundry CLI] for your operating system and install it.
+
+. Use the API target and username/password provided by the instructor..
+
+. From a command prompt, set the API target for the CLI:
++
+----
+$ cf api --skip-ssl-validation https://api.sys.dev.cf.pa.fedex.com
+----
+
+. Login to Pivotal Cloud Foundry (‘Employee ID’ and password (LDAP)):
++
+----
+$ cf login -u <Employee ID> -p <your pw>
+----
++
+Follow the prompts, choosing default organization and space.
+
+== Crate Application
+
+. Go to http://start.spring.io/ in your browser
+. Change the package name to com.workshop .
+. Change the app name from demo to orders-service
+. Add the following dependencies:
++
+----
+JPA, Rest Repositories, MySQL, H2, Actuator, Lombok
+----
+. Click 'Generate Project', and save the zip file to this directory $COURSE_HOME/session_02/lab_01 ($COURSE_HOME is a pointer to where you cloned this repo )
+. Unzip the project
+. Delete the .zip file, copy ( or move ) the manifest.yml file from this directory into the newly extracted project directory
+. Add the following properties to the file src/main/resources/application.properties
++
+```
+security.basic.enabled=false
+management.security.enabled=false
+```
