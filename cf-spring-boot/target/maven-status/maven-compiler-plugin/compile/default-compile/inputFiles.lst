@@ -1,0 +1,4 @@
+/Users/rappalla/Desktop/cf-workshop-spring-boot/src/main/java/io/pivotal/cf/workshop/entity/Attendee.java
+/Users/rappalla/Desktop/cf-workshop-spring-boot/src/main/java/io/pivotal/cf/workshop/CfWorkshopSpringBootApplication.java
+/Users/rappalla/Desktop/cf-workshop-spring-boot/src/main/java/io/pivotal/cf/workshop/repository/AttendeeRepository.java
+/Users/rappalla/Desktop/cf-workshop-spring-boot/src/main/java/io/pivotal/cf/workshop/web/CloudFoundryWorkshopController.java
