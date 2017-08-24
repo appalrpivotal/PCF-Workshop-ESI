@@ -2,7 +2,7 @@
 
 == Apps Manager UI
 
-. Navigate in a web browser to https://apps.sys.dev.cf.pa.fedex.com
+. Navigate in a web browser to https://apps.sys.wtcdev1.paas.fedex.com
 . Use your FedEx ID (aka LDAP) credentials to login
 
 
@@ -13,7 +13,7 @@
 . Login to Pivotal Cloudfoundry:
 +
 ----
-$ cf login --skip-ssl-validation -a api.sys.dev.cf.pa.fedex.com
+$ cf login -a https://api.sys.wtcdev1.paas.fedex.com
 ----
 +
 . Follow the prompts and login with the account from above.

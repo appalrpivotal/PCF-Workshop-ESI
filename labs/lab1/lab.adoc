@@ -9,10 +9,10 @@
 
 == Push It!
 
-. Change to the _cf-spring-mvc-boot_ sample application directory:
+. Change to the _cf-spring-boot_ sample application directory:
 +
 ----
-$ cd $BOOTCAMP_HOME/cf-spring-mvc-boot
+$ cd $HOME/cf-spring-boot
 ----
 +
 
