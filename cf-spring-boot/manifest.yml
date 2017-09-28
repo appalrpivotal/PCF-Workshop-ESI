@@ -1,7 +1,6 @@
 applications:
-- name: boot-app-ravi
-  buildpack: java_buildpack
+- name: boot-app-fedex
   memory: 512M
   instances: 1
-#  host: boot-app-${random-word}
+  host: boot-app-${random-word}
   path: ./target/cf-workshop-spring-boot-0.0.2-SNAPSHOT.jar
