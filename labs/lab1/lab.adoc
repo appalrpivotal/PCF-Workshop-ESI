@@ -12,7 +12,7 @@
 . Change to the _cf-workshop-demo_ sample application directory:
 +
 ----
-$ cd $HOME/cf-spring-boot
+$ cd $HOME/cf-workshop-demo
 ----
 +
 
