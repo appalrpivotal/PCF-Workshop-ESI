@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.pivotal.cf.workshop.controller.EnvironmentControllerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.626 sec - in io.pivotal.cf.workshop.controller.EnvironmentControllerTests

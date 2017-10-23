@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cf-workshop-demo
+Implementation-Version: 1.0.1.RELEASE
+Built-By: rappalla
+Implementation-Vendor-Id: io.pivotal.cf
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/cf-workshop-
+ demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

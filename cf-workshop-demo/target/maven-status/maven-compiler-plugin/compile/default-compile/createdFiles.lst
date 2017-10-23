@@ -1,0 +1,6 @@
+io/pivotal/cf/workshop/CfWorkshopDemoApplication.class
+io/pivotal/cf/workshop/controller/NoteController.class
+io/pivotal/cf/workshop/controller/EnvironmentController.class
+io/pivotal/cf/workshop/repository/NoteRepository.class
+io/pivotal/cf/workshop/EnvironmentInfo.class
+io/pivotal/cf/workshop/entity/Note.class

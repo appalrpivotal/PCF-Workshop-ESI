@@ -1,0 +1,4 @@
+io/pivotal/cf/workshop/entity/NoteTests.class
+io/pivotal/cf/workshop/controller/NoteControllerTests.class
+io/pivotal/cf/workshop/repository/NoteRepositoryTests.class
+io/pivotal/cf/workshop/controller/EnvironmentControllerTests.class
