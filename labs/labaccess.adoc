@@ -2,8 +2,8 @@
 
 == Apps Manager UI
 
-. Navigate in a web browser to https://run.pivotal.io
-. Use your credentials created during the login
+. Navigate in a web browser to https://apps.sys.wtcdev1.paas.fedex.com
+. Use your Fedex (LDAP) credentials created during the login
 
 
 == Target the Environment
@@ -13,7 +13,7 @@
 . Login to Pivotal Cloudfoundry:
 +
 ----
-$ cf login -a api.run.pivotal.io
+$ cf login -a https://api.sys.wtcdev1.paas.fedex.com
 ----
 +
 . Follow the prompts and login with the account from above.
