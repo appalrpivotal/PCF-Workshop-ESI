@@ -9,7 +9,7 @@
 
 == Push It!
 
-. Change to the _cf-spring-boot_ sample application directory:
+. Change to the _cf-workshop-demo_ sample application directory:
 +
 ----
 $ cd $HOME/cf-spring-boot
